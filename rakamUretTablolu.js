@@ -6,7 +6,7 @@ var rakamlar = new Array(49);
 //Oynanacak kolonun dizisi
 var loto = new Array(6);
 
-document.write('<center><img src="sayisalloto2.jpg"></center>');
+document.write('<center><img src="sayisalloto2.jpg"  style="width: 70%" />  </center>');  
 
 //Rakam havuzunun oluşturulması
 for(var i=0; i<49; i++){
